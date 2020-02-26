@@ -5,6 +5,6 @@ Please take a look at [contributing guide](CONTRIBUTING.md). It will provide you
 a general overview of the project and how to contribute.
 
 ## To do
-- [ ] Fix the path in the notebooks for the dataset
+- [x] Fix the path in the notebooks for the dataset
 - [ ] Scrape upcoming data and divide into smaller ones
 - [ ] Making into a live analysis with web interface
