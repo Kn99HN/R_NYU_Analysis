@@ -16,8 +16,9 @@ You'll need to install a few applications to contribute to this project:
 - Reddit API key
 
 ### Using Anaconda
-- [Install Anaconda from the website][anaconda-download]
-[anaconda-download]: https://www.anaconda.com/distribution/
+[Install Anaconda from the website][anaconda-download].
+
+[anaconda-download]: https://www.anaconda.com/distribution
 
 <!-- @HelpWanted Add command line installation instructions for more OSes -->
 ### Command Line
